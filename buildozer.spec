@@ -4,7 +4,7 @@
 title = FaceID
 
 # (str) Package name
-package.name = Automotive facial recognition
+package.name = FaceID
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
